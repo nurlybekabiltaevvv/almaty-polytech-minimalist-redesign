@@ -516,7 +516,7 @@ export default function App() {
           <SectionHeader
             number="04"
             label="Партнёрлар"
-            title="Вузы-партнёры"
+            title="ЖОО-серіктестері"
             description="«Колледжден кейін - университетке» бағдарламасы бойынша сіз біліміңізді жеңілдікпен жалғастыра аласыз немесе оның мерзімін қысқарта аласыз."
           />
           <div className="grid grid-cols-2 gap-px border border-line bg-line sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5">
