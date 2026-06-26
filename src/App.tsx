@@ -270,7 +270,7 @@ export default function App() {
             <div className="lg:col-span-8">
               <AnimateOnScroll animation="animate-rise">
                 <p className="mb-6 text-xs font-semibold uppercase tracking-[0.25em] text-muted">
-                  Almaty Polytechnic College
+                  
                 </p>
               </AnimateOnScroll>
 
@@ -440,14 +440,13 @@ export default function App() {
           <div className="grid gap-12 lg:grid-cols-2 lg:items-center lg:gap-24">
             <AnimateOnScroll animation="animate-rise">
               <p className="mb-4 text-xs font-semibold uppercase tracking-[0.25em] text-white/50">
-                День открытых дверей
+                Ашық есік күні
               </p>
               <h2 className="text-balance text-3xl font-semibold leading-tight md:text-4xl lg:text-5xl">
-                Добро пожаловать в наш колледж
+                Біздің колледжді өз көзіңізбен көріңіз
               </h2>
               <p className="mt-6 text-base leading-relaxed text-white/70 md:text-lg">
-                Мы рады каждому новому гостю. Записывайтесь на экскурсию и познакомьтесь
-                с нашими возможностями, лабораториями и преподавателями.
+                Біз әрқашан ашықпыз! Колледжді аралап, оқу бағдарламаларымен танысып, оқытушылармен сөйлесуге шақырамыз.
               </p>
             </AnimateOnScroll>
 
